@@ -13,7 +13,10 @@
     "next-auth": "^4.20.1",
     "postgres": "^3.3.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-uploader": "^3.10.0",
+    "replicate": "^0.5.0",
+    "uploader": "^3.9.0"
   },
   "devDependencies": {
     "eslint": "8.36.0",
